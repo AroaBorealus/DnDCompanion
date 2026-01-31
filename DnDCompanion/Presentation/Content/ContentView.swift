@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  DnDCompanion
 //
-//  Created by Aroa Miguel Garcia on 31/1/26.
+//  Created by Aroa Miguel Garcia on 17/11/25.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Dnd 5e Companion")
         }
         .padding()
     }
